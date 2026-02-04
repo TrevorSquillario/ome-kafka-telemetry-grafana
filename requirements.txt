@@ -1,0 +1,6 @@
+# Python dependencies for OME Kafka Telemetry Application
+confluent-kafka>=2.3.0
+psycopg2-binary>=2.9.9
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+python-dotenv>=1.0.0
