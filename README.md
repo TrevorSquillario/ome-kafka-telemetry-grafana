@@ -5,9 +5,9 @@ Real-time monitoring and visualization solution for Dell OpenManage Enterprise (
 ## Architecture
 
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                    Dell OpenManage Enterprise (OME)                     │
-│                                                                           │
+┌────────────────────────────────────────────────────────────────────────┐
+│                    Dell OpenManage Enterprise (OME)                    │
+│                                                                        │
 │                  ┌──────────┐  ┌──────────┐  ┌──────────┐              │
 │                  │Telemetry │  │  Alerts  │  │  Health  │              │
 │                  └─────┬────┘  └────┬─────┘  └────┬─────┘              │
