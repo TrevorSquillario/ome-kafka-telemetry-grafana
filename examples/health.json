@@ -1,0 +1,296 @@
+{
+	"System": [
+		{
+			"Issues": [
+				{
+					"FQDD": "PSU.Slot.2",
+					"Message": "The Power Supply Unit (PSU) 2 is not receiving input power because of issues in PSU or cable connections.",
+					"Severity": 6,
+					"MessageId": "PSU0003",
+					"SubSystem": "PowerSupply",
+					"TimeStamp": "20260111T025453Z",
+					"MessageArguments": null
+				},
+				{
+					"FQDD": "System.Embedded.1",
+					"Message": "Power supply redundancy is lost.",
+					"Severity": 6,
+					"MessageId": "RDU0012",
+					"SubSystem": "PowerSupply",
+					"TimeStamp": "20260111T025457Z",
+					"MessageArguments": null
+				}
+			],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 17,
+			"GlobalHealth": 4000,
+			"PoweredOnTime": 1962148,
+			"CollectionTime": "20260202T210006Z",
+			"ConnectionState": true
+		},
+		{
+			"Issues": [],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 17,
+			"GlobalHealth": 1000,
+			"PoweredOnTime": 1962150,
+			"CollectionTime": "20260202T210005Z",
+			"ConnectionState": true
+		},
+		{
+			"Issues": [],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 17,
+			"GlobalHealth": 1000,
+			"PoweredOnTime": 1962235,
+			"CollectionTime": "20260202T210005Z",
+			"ConnectionState": true
+		},
+		{
+			"Issues": [
+				{
+					"FQDD": "DIMM.Socket.A3",
+					"Message": "Multi-bit memory errors are detected on the memory device at location(s) DIMM_A3. Immediately replace the DIMM.",
+					"Severity": 6,
+					"MessageId": "MEM0001",
+					"SubSystem": "Memory",
+					"TimeStamp": "20260111T095520Z",
+					"MessageArguments": null
+				}
+			],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 17,
+			"GlobalHealth": 4000,
+			"PoweredOnTime": 0,
+			"CollectionTime": "20260202T210004Z",
+			"ConnectionState": true
+		},
+		{
+			"Issues": [
+				{
+					"FQDD": "PSU.Slot.2",
+					"Message": "The Power Supply Unit (PSU) 2 is not receiving input power because of issues in PSU or cable connections.",
+					"Severity": 6,
+					"MessageId": "PSU0003",
+					"SubSystem": "PowerSupply",
+					"TimeStamp": "20260111T100000Z",
+					"MessageArguments": null
+				}
+			],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 17,
+			"GlobalHealth": 4000,
+			"PoweredOnTime": 1962115,
+			"CollectionTime": "20260202T210005Z",
+			"ConnectionState": true
+		},
+		{
+			"Issues": [],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 17,
+			"GlobalHealth": 1000,
+			"PoweredOnTime": 1962276,
+			"CollectionTime": "20260202T210004Z",
+			"ConnectionState": true
+		},
+		{
+			"Issues": [],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 1,
+			"GlobalHealth": 2000,
+			"PoweredOnTime": 4927262,
+			"CollectionTime": "20260202T210203Z",
+			"ConnectionState": false
+		},
+		{
+			"Issues": [],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 17,
+			"GlobalHealth": 1000,
+			"PoweredOnTime": 423696,
+			"CollectionTime": "20260202T210005Z",
+			"ConnectionState": true
+		},
+		{
+			"Issues": [],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 1,
+			"GlobalHealth": 2000,
+			"PoweredOnTime": 0,
+			"CollectionTime": "20260202T210203Z",
+			"ConnectionState": false
+		},
+		{
+			"Issues": [],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 17,
+			"GlobalHealth": 1000,
+			"PoweredOnTime": 1962164,
+			"CollectionTime": "20260202T210005Z",
+			"ConnectionState": true
+		},
+		{
+			"Issues": [],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 17,
+			"GlobalHealth": 1000,
+			"PoweredOnTime": 519224,
+			"CollectionTime": "20260202T210005Z",
+			"ConnectionState": true
+		},
+		{
+			"Issues": [],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 17,
+			"GlobalHealth": 1000,
+			"PoweredOnTime": 1962257,
+			"CollectionTime": "20260202T210005Z",
+			"ConnectionState": true
+		},
+		{
+			"Issues": [],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 17,
+			"GlobalHealth": 1000,
+			"PoweredOnTime": 1962190,
+			"CollectionTime": "20260202T210004Z",
+			"ConnectionState": true
+		},
+		{
+			"Issues": [],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 1,
+			"GlobalHealth": 2000,
+			"PoweredOnTime": 0,
+			"CollectionTime": "20260202T210203Z",
+			"ConnectionState": false
+		},
+		{
+			"Issues": [],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 17,
+			"GlobalHealth": 1000,
+			"PoweredOnTime": 615417,
+			"CollectionTime": "20260202T210004Z",
+			"ConnectionState": true
+		},
+		{
+			"Issues": [],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 17,
+			"GlobalHealth": 1000,
+			"PoweredOnTime": 1940071,
+			"CollectionTime": "20260202T210005Z",
+			"ConnectionState": true
+		},
+		{
+			"Issues": [],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 17,
+			"GlobalHealth": 4000,
+			"PoweredOnTime": 1962215,
+			"CollectionTime": "20260202T210004Z",
+			"ConnectionState": true
+		},
+		{
+			"Issues": [],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 17,
+			"GlobalHealth": 1000,
+			"PoweredOnTime": 0,
+			"CollectionTime": "20260202T210004Z",
+			"ConnectionState": true
+		},
+		{
+			"Issues": [],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 1,
+			"GlobalHealth": 2000,
+			"PoweredOnTime": 415185,
+			"CollectionTime": "20260202T211023Z",
+			"ConnectionState": false
+		},
+		{
+			"Issues": [],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 17,
+			"GlobalHealth": 1000,
+			"PoweredOnTime": 1940031,
+			"CollectionTime": "20260202T210005Z",
+			"ConnectionState": true
+		},
+		{
+			"Issues": [],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 18,
+			"GlobalHealth": 1000,
+			"PoweredOnTime": 0,
+			"CollectionTime": "20260202T210004Z",
+			"ConnectionState": true
+		},
+		{
+			"Issues": [],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 1,
+			"GlobalHealth": 2000,
+			"PoweredOnTime": 416336,
+			"CollectionTime": "20260202T210222Z",
+			"ConnectionState": false
+		},
+		{
+			"Issues": [],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 1,
+			"GlobalHealth": 2000,
+			"PoweredOnTime": 0,
+			"CollectionTime": "20260202T211024Z",
+			"ConnectionState": false
+		},
+		{
+			"Issues": [],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 17,
+			"GlobalHealth": 1000,
+			"PoweredOnTime": 615446,
+			"CollectionTime": "20260202T210005Z",
+			"ConnectionState": true
+		},
+		{
+			"Issues": [
+				{
+					"FQDD": "PSU.Slot.1",
+					"Message": "The Power Supply Unit (PSU) 1 is not receiving input power because of issues in PSU or cable connections.",
+					"Severity": 6,
+					"MessageId": "PSU0003",
+					"SubSystem": "PowerSupply",
+					"TimeStamp": "20260111T014903Z",
+					"MessageArguments": null
+				}
+			],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 17,
+			"GlobalHealth": 4000,
+			"PoweredOnTime": 1962148,
+			"CollectionTime": "20260202T210005Z",
+			"ConnectionState": true
+		},
+		{
+			"Issues": [],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 17,
+			"GlobalHealth": 1000,
+			"PoweredOnTime": 1962219,
+			"CollectionTime": "20260202T210004Z",
+			"ConnectionState": true
+		},
+		{
+			"Issues": [],
+			"Identifier": "ZZZZZZZ",
+			"PowerState": 17,
+			"GlobalHealth": 1000,
+			"PoweredOnTime": 1940587,
+			"CollectionTime": "20260202T210005Z",
+			"ConnectionState": true
+		}
+	]
+}

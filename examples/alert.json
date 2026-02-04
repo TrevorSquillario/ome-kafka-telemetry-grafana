@@ -1,0 +1,14 @@
+{
+	"Data": [
+		{
+			"AlertId": 80476,
+			"Severity": 2,
+			"Timestamp": "20260202T222502Z",
+			"Description": "Message ID: RAC1195, Device Display Name: N/A, Message: User root via IP 192.168.8.107 requested state / configuration change to Reset iDRAC using GUI.,\nDevice Status: 3, Device FQDD: ,\nSystem Service Tag: 6K15PZ3, System Name: ,\nChassis Service Tag: 6K15PZ3, Chassis Name: Main System Chassis,\nRAC FQDN: idrac-R7615-6K15PZ3.Fedlab.local",
+			"   ": "RAC1195",
+			"IsAcknowledged": false,
+			"AlertIdentifier": "ZZZZZZZ",
+			"UpdatedTimeStamp": null
+		}
+	]
+}
