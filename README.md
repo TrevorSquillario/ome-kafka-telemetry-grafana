@@ -51,9 +51,9 @@ Real-time monitoring and visualization solution for Dell OpenManage Enterprise (
                    │   (PostgreSQL + Time-Series)    │
                    ├─────────────────────────────────┤
                    │  Tables:                        │
-                   │  • metrics (hypertable)     │
-                   │  • alerts                   │
-                   │  • health                   │
+                   │  • metrics (hypertable)         │
+                   │  • alerts                       │
+                   │  • health                       │
                    │  • devices                      │
                    └─────────────┬───────────────────┘
                                  │
